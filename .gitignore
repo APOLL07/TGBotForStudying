@@ -1,9 +1,7 @@
-# Секреты — никогда не пушить!
 .env
 *.env
 .env.*
 
-# Python
 __pycache__/
 *.pyc
 *.pyo
@@ -16,6 +14,5 @@ build/
 venv/
 env/
 
-# Логи
 *.log
 logs/
