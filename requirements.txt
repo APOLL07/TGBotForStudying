@@ -1,0 +1,7 @@
+# NetGuard Sentinel — зависимости
+# Python 3.14 совместимые версии
+python-telegram-bot==21.3
+python-dotenv>=1.0.0
+google-genai>=1.0.0
+duckduckgo-search>=6.0.0
+httpx>=0.27.0
