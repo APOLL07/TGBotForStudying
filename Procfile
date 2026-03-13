@@ -1,0 +1,1 @@
+worker: python netguard_sentinel_bot.py
